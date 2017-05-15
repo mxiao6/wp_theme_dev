@@ -1,0 +1,147 @@
+version: 2
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1468340932
+layout:
+  navigation: {  }
+  header: {  }
+  intro: {  }
+  features: {  }
+  utility: {  }
+  above: {  }
+  testimonials: {  }
+  expanded: {  }
+  /container-main/:
+    -
+      -
+        'sidebar 25': {  }
+      -
+        'mainbar 75':
+          -
+            - contentarray-8482
+  footer: {  }
+  offcanvas: {  }
+structure:
+  navigation:
+    type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - children
+  header:
+    inherit:
+      outline: left_sidebar
+      include:
+        - attributes
+        - block
+        - children
+  intro:
+    type: section
+    inherit:
+      outline: left_sidebar
+      include:
+        - attributes
+        - block
+        - children
+  features:
+    type: section
+    inherit:
+      outline: left_sidebar
+      include:
+        - attributes
+        - block
+        - children
+  utility:
+    type: section
+    inherit:
+      outline: left_sidebar
+      include:
+        - attributes
+        - block
+        - children
+  above:
+    type: section
+    inherit:
+      outline: left_sidebar
+      include:
+        - attributes
+        - block
+        - children
+  testimonials:
+    type: section
+    inherit:
+      outline: left_sidebar
+      include:
+        - attributes
+        - block
+        - children
+  expanded:
+    type: section
+    inherit:
+      outline: left_sidebar
+      include:
+        - attributes
+        - block
+        - children
+  sidebar:
+    type: section
+    subtype: aside
+    inherit:
+      outline: left_sidebar
+      include:
+        - attributes
+        - block
+        - children
+  mainbar:
+    type: section
+    subtype: main
+    attributes:
+      class: ''
+  container-main:
+    attributes:
+      boxed: ''
+  footer:
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - children
+  offcanvas:
+    inherit:
+      outline: default
+      include:
+        - children
+        - attributes
+content:
+  contentarray-8482:
+    title: 'WordPress Posts'
+    attributes:
+      post:
+        filter:
+          categories: '1'
+          sticky: ''
+        limit:
+          total: '6'
+          columns: '3'
+          start: '0'
+        sort:
+          orderby: date
+          ordering: DESC
+        display:
+          image:
+            enabled: show
+          title:
+            enabled: show
+            limit: '20'
+          read_more:
+            enabled: show
+            css: cus_button
+          category:
+            enabled: ''
+          comments:
+            enabled: ''
+          text:
+            type: content
+            limit: '100'
