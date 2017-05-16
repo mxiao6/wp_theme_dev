@@ -1,7 +1,7 @@
 <?php
 return [
     'file' => 'gantry-theme://css-compiled/custom_left_custom.css',
-    'timestamp' => 1494885369,
+    'timestamp' => 1494945289,
     'md5' => '5fd06bf3e4fe9c513471d928f7bb5b08',
     'variables' => [
         'above-background' => '#f4f5f7',
@@ -49,6 +49,6 @@ return [
         'preset' => '\'preset1\''
     ],
     'imports' => [
-        'gantry-theme://scss/custom.scss' => 1494885366
+        'gantry-theme://scss/custom.scss' => 1494885434
     ]
 ];
