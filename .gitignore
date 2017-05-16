@@ -1,1 +1,2 @@
 *.yaml
+./wp-content/cache/gantry5/g5_helium/compiled/*
