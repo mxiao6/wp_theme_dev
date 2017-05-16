@@ -17,7 +17,11 @@ layout:
   /container-main/:
     -
       -
-        'sidebar 25': {  }
+        'sidebar 25':
+          -
+            - custom-6361
+          -
+            - contentarray-6590
       -
         'mainbar 75':
           -
@@ -87,12 +91,8 @@ structure:
   sidebar:
     type: section
     subtype: aside
-    inherit:
-      outline: left_sidebar
-      include:
-        - attributes
-        - block
-        - children
+    attributes:
+      class: ''
   mainbar:
     type: section
     subtype: main
@@ -117,6 +117,48 @@ content:
   position-widget-1011:
     attributes:
       widget: '{"type":"widget","widget":"metaslider_widget","title":"Meta Slider","options":{"widget":{"slider_id":"152","title":""}}}'
+      key: widget
+  custom-6361:
+    title: 'Left Sidebar'
+    attributes:
+      html: "<h3>Left Sidebar</h3>\n<p class=\"nomarginbottom\"> A left column layout example. The sidebar is independent from the Mainbody so can have multiple rows and columns, separate from the Mainbody area.</p>"
+    block:
+      variations: box1
+  contentarray-6590:
+    title: 'WordPress Posts'
+    attributes:
+      post:
+        filter:
+          categories: ''
+          sticky: ''
+        limit:
+          total: '10'
+          columns: '1'
+          start: '0'
+        sort:
+          orderby: date
+          ordering: DESC
+        display:
+          image:
+            enabled: ''
+          title:
+            enabled: show
+            limit: '20'
+          date:
+            enabled: ''
+          read_more:
+            enabled: ''
+          author:
+            enabled: ''
+          category:
+            enabled: ''
+          comments:
+            enabled: ''
+          text:
+            type: ''
+    block:
+      class: sidebar-title
+      variations: box2
   contentarray-8482:
     title: 'WordPress Posts'
     attributes:

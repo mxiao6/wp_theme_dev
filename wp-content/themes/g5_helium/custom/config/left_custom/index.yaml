@@ -1,5 +1,5 @@
 name: left_custom
-timestamp: 1494950266
+timestamp: 1494959020
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -30,9 +30,9 @@ particles:
   widget:
     position-widget-1011: Widget
   custom:
-    custom-2543: 'Left Sidebar'
-    custom-6150: 'Flexible Layouts'
+    custom-6361: 'Left Sidebar'
   contentarray:
+    contentarray-6590: 'WordPress Posts'
     contentarray-8482: 'WordPress Posts'
   copyright:
     copyright-7553: Copyright
@@ -62,6 +62,3 @@ inherit:
     above: above
     testimonials: testimonials
     expanded: expanded
-    sidebar: sidebar
-    custom-2543: custom-6361
-    custom-6150: custom-9374

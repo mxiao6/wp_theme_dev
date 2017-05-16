@@ -105,3 +105,12 @@
   width: 100%;
   display: block;
 }
+/* line 117, wp-content/themes/g5_helium/custom/scss/custom.scss */
+/* line 121, wp-content/themes/g5_helium/custom/scss/custom.scss */
+.sidebar-title .g-grid {
+  margin-bottom: 0.5rem;
+}
+/* line 125, wp-content/themes/g5_helium/custom/scss/custom.scss */
+.sidebar-title h3 {
+  font-size: 1rem;
+}
