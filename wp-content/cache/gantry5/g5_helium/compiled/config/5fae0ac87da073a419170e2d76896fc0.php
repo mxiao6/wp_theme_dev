@@ -1,57 +1,57 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1494873344,
-    'checksum' => 'f6c164e30e68f93327d4de4788dcdbbd',
+    'timestamp' => 1494945170,
+    'checksum' => '20ff3411061317428c17937949173f59',
     'files' => [
         0 => [
             'block_variations' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/block_variations/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'full_width' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/full_width/assignments.yaml',
-                'modified' => 1493222628
+                'modified' => 1494945110
             ],
             'home_-_particles' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/home_-_particles/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'left_custom' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/left_custom/assignments.yaml',
-                'modified' => 1494873337
+                'modified' => 1494945110
             ],
             'left_sidebar' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/left_sidebar/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'offline_page' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/offline_page/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/particles/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'right_sidebar' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/right_sidebar/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'rows_and_columns' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/rows_and_columns/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'two_sidebars' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/two_sidebars/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'two_sidebars_left' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/two_sidebars_left/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'two_sidebars_right' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/two_sidebars_right/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ]
         ]
     ],

@@ -1,253 +1,257 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1494862771,
-    'checksum' => 'ab104b8dde8e826b67e8c3c1d8abd983',
+    'timestamp' => 1494949141,
+    'checksum' => '0823ca6f6245bbac2ce9ed96922df504',
     'files' => [
         'wp-content/themes/g5_helium/custom/config/left_sidebar' => [
             'assignments' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/left_sidebar/assignments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'index' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/left_sidebar/index.yaml',
-                'modified' => 1494862212
+                'modified' => 1494948471
             ],
             'layout' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/left_sidebar/layout.yaml',
-                'modified' => 1493222626
+                'modified' => 1494948471
             ]
         ],
         'wp-content/themes/g5_helium/custom/config/default' => [
             'content/archive/content' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/archive/content.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/archive/featured-image' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/archive/featured-image.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/archive/heading' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/archive/heading.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/archive/meta-author' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/archive/meta-author.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/archive/meta-categories' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/archive/meta-categories.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/archive/meta-comments' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/archive/meta-comments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/archive/meta-date' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/archive/meta-date.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/archive/meta-tags' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/archive/meta-tags.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/archive/read-more' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/archive/read-more.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/archive/title' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/archive/title.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/blog/content' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/content.yaml',
-                'modified' => 1493222628
+                'modified' => 1494945110
             ],
             'content/blog/featured-image' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/featured-image.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/blog/heading' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/heading.yaml',
-                'modified' => 1493222628
+                'modified' => 1494945110
             ],
             'content/blog/meta-author' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/meta-author.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/blog/meta-categories' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/meta-categories.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/blog/meta-comments' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/meta-comments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/blog/meta-date' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/meta-date.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/blog/meta-tags' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/meta-tags.yaml',
-                'modified' => 1493222628
+                'modified' => 1494945110
             ],
             'content/blog/query' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/query.yaml',
-                'modified' => 1493222628
+                'modified' => 1494945110
             ],
             'content/blog/read-more' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/read-more.yaml',
-                'modified' => 1493222628
+                'modified' => 1494945110
             ],
             'content/blog/title' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/blog/title.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/general/wpautop' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/general/wpautop.yaml',
-                'modified' => 1493222628
+                'modified' => 1494945110
             ],
             'content/page/featured-image' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/page/featured-image.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/page/meta-author' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/page/meta-author.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/page/meta-date' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/page/meta-date.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/page/title' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/page/title.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/single/featured-image' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/single/featured-image.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/single/meta-author' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/single/meta-author.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/single/meta-categories' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/single/meta-categories.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/single/meta-comments' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/single/meta-comments.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/single/meta-date' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/single/meta-date.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/single/meta-tags' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/single/meta-tags.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'content/single/title' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/content/single/title.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'index' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/index.yaml',
-                'modified' => 1494862212
+                'modified' => 1494947939
             ],
             'layout' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/layout.yaml',
-                'modified' => 1493222628
+                'modified' => 1494947939
             ],
             'particles/branding' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/branding.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/contentarray' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/contentarray.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/contentcubes' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/contentcubes.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/contenttabs' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/contenttabs.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/copyright' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/copyright.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/custom' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/custom.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/date' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/date.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/horizontalmenu' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/horizontalmenu.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/loginform' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/loginform.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/logo' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/logo.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/menu' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/menu.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/owlcarousel' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/owlcarousel.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/position' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/position.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/social' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/social.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/totop' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/totop.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
             ],
             'particles/widget' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/default/particles/widget.yaml',
-                'modified' => 1493222626
+                'modified' => 1494945110
+            ],
+            'styles' => [
+                'file' => 'wp-content/themes/g5_helium/custom/config/default/styles.yaml',
+                'modified' => 1494949136
             ]
         ],
         'wp-content/themes/g5_helium/config/default' => [
             'page/body' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/page/body.yaml',
-                'modified' => 1493222622
+                'modified' => 1494945110
             ],
             'particles/branding' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/particles/branding.yaml',
-                'modified' => 1493222622
+                'modified' => 1494945110
             ],
             'particles/copyright' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/particles/copyright.yaml',
-                'modified' => 1493222622
+                'modified' => 1494945110
             ],
             'particles/logo' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/particles/logo.yaml',
-                'modified' => 1493222622
+                'modified' => 1494945110
             ],
             'particles/social' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/particles/social.yaml',
-                'modified' => 1493222622
+                'modified' => 1494945110
             ],
             'particles/totop' => [
                 'file' => 'wp-content/themes/g5_helium/config/default/particles/totop.yaml',
-                'modified' => 1493222622
+                'modified' => 1494945110
             ]
         ]
     ],
@@ -733,7 +737,7 @@ return [
             ],
             'breakpoints' => [
                 'large-desktop-container' => '75rem',
-                'desktop-container' => '60rem',
+                'desktop-container' => '50rem',
                 'tablet-container' => '48rem',
                 'large-mobile-container' => '30rem',
                 'mobile-menu-breakpoint' => '48rem'
@@ -780,7 +784,7 @@ return [
                 'background' => '#4db2b3',
                 'text-color' => '#eceeef',
                 'toggle-color' => '#4db2b3',
-                'toggle-visibility' => 1,
+                'toggle-visibility' => '1',
                 'width' => '12rem'
             ],
             'testimonials' => [
@@ -792,7 +796,8 @@ return [
             'utility' => [
                 'background' => '#424753',
                 'text-color' => '#ffffff'
-            ]
+            ],
+            'preset' => 'preset1'
         ],
         'page' => [
             'assets' => [
@@ -817,7 +822,7 @@ return [
         ],
         'index' => [
             'name' => 'left_sidebar',
-            'timestamp' => 1493222626,
+            'timestamp' => 1494948471,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -842,12 +847,6 @@ return [
                 'offcanvas' => 'Offcanvas'
             ],
             'particles' => [
-                'custom' => [
-                    'custom-6833' => 'Header',
-                    'custom-6361' => 'Left Sidebar',
-                    'custom-9374' => 'Flexible Layouts',
-                    'custom-5490' => 'Content'
-                ],
                 'logo' => [
                     'logo-6401' => 'Logo / Image',
                     'logo-7418' => 'Logo / Image'
@@ -857,6 +856,12 @@ return [
                 ],
                 'social' => [
                     'social-9102' => 'Social'
+                ],
+                'custom' => [
+                    'custom-6833' => 'Header',
+                    'custom-6361' => 'Left Sidebar',
+                    'custom-9374' => 'Flexible Layouts',
+                    'custom-5490' => 'Content'
                 ],
                 'copyright' => [
                     'copyright-4149' => 'Copyright'
@@ -874,15 +879,15 @@ return [
             'inherit' => [
                 'default' => [
                     'navigation' => 'navigation',
-                    'footer' => 'footer',
-                    'offcanvas' => 'offcanvas',
                     'logo-6401' => 'logo-9608',
                     'menu-5151' => 'menu-6409',
                     'social-9102' => 'social-3171',
+                    'footer' => 'footer',
                     'logo-7418' => 'logo-9571',
                     'copyright-4149' => 'copyright-1736',
                     'horizontalmenu-7512' => 'horizontalmenu-9034',
                     'totop-7225' => 'totop-8670',
+                    'offcanvas' => 'offcanvas',
                     'mobile-menu-4912' => 'mobile-menu-5697'
                 ]
             ]

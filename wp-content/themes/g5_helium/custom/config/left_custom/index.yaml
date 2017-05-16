@@ -1,5 +1,5 @@
 name: left_custom
-timestamp: 1494885390
+timestamp: 1494948500
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -27,8 +27,9 @@ particles:
     menu-9952: Menu
   social:
     social-4917: Social
+  widget:
+    position-widget-1011: Widget
   custom:
-    custom-5323: Header
     custom-2543: 'Left Sidebar'
     custom-6150: 'Flexible Layouts'
   contentarray:
@@ -55,8 +56,6 @@ inherit:
     offcanvas: offcanvas
     mobile-menu-9585: mobile-menu-5697
   left_sidebar:
-    header: header
-    custom-5323: custom-6833
     intro: intro
     features: features
     utility: utility

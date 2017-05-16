@@ -76,7 +76,7 @@ textarea, select[multiple=multiple], input[type="color"], input[type="date"], in
   font-family: 'rockettheme-apps';
   font-style: normal;
   font-weight: normal;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.svg#rockettheme-apps') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/rockettheme-apps/rockettheme-apps.svg?591b0d56#rockettheme-apps') format("svg");
 }
 /* line 4, wp-content/themes/g5_helium/scss/helium/styles/_fonts.scss */
 i.fa-grav-spaceman, i.fa-grav-text, i.fa-grav-full, i.fa-grav-logo, i.fa-grav-symbol, i.fa-grav-logo-both, i.fa-grav-both, i.fa-gantry, i.fa-gantry-logo, i.fa-gantry-symbol, i.fa-gantry-logo-both, i.fa-gantry-both {
@@ -180,61 +180,61 @@ a:hover {
   font-family: "raleway";
   font-style: normal;
   font-weight: 900;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.svg#raleway') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-black/raleway-black-webfont.svg?591b0d56#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 700;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.svg#raleway') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-bold/raleway-bold-webfont.svg?591b0d56#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 600;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.svg#raleway') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-semibold/raleway-semibold-webfont.svg?591b0d56#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 500;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.svg#raleway') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-medium/raleway-medium-webfont.svg?591b0d56#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 400;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.svg#raleway') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-regular/raleway-regular-webfont.svg?591b0d56#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 200;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.svg#raleway') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/raleway/raleway-light/raleway-light-webfont.svg?591b0d56#raleway') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 900;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.svg#lato') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-black/lato-black-webfont.svg?591b0d56#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 700;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.svg#lato') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-bold/lato-bold-webfont.svg?591b0d56#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 400;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.svg#lato') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-regular/lato-regular-webfont.svg?591b0d56#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 200;
-  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.eot#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.woff2') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.woff') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.ttf') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.svg#lato') format("svg");
+  src: url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.eot?591b0d56#iefix') format("embedded-opentype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.woff2?591b0d56') format("woff2"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.woff?591b0d56') format("woff"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.ttf?591b0d56') format("truetype"), url('//localhost/gantry_wp/wp-content/themes/g5_helium/fonts/lato/lato-light/lato-light-webfont.svg?591b0d56#lato') format("svg");
 }
 /* line 5, wp-content/themes/g5_helium/scss/helium/styles/_typography.scss */
 body {
@@ -1492,7 +1492,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 3rem 0;
   position: relative;
   z-index: 10;
-  background: url('//localhost/gantry_wp/wp-content/themes/g5_helium/images/header/img01.jpg') center center no-repeat;
+  background: url('//localhost/gantry_wp/wp-content/themes/g5_helium/images/header/img01.jpg?591b0d56') center center no-repeat;
   background-size: cover;
 }
 /* line 13, wp-content/themes/g5_helium/scss/helium/sections/_header.scss */
@@ -1537,7 +1537,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 #g-header h2.large-heading {
   font-size: 3.8rem;
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   #g-header h2.large-heading {
     font-size: 2.375rem;
   }
@@ -1611,7 +1611,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 #g-navigation .g-main-nav .g-toplevel > li {
   margin: 0 0.5rem;
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   #g-navigation .g-main-nav .g-toplevel > li {
     margin: 0 0.2rem;
   }
@@ -1993,7 +1993,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 3rem 0;
   position: relative;
   z-index: 10;
-  background: url('//localhost/gantry_wp/wp-content/themes/g5_helium/images/testimonials/img01.jpg') no-repeat center top;
+  background: url('//localhost/gantry_wp/wp-content/themes/g5_helium/images/testimonials/img01.jpg?591b0d56') no-repeat center top;
   background-size: cover;
 }
 /* line 13, wp-content/themes/g5_helium/scss/helium/sections/_testimonials.scss */
@@ -2031,7 +2031,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   color: #424753;
   padding: 3rem;
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   #g-expanded {
     padding: 0;
   }
@@ -2325,7 +2325,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 .g-error #g-header .g-content p {
   font-size: 1.5rem;
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   /* line 16, wp-content/themes/g5_helium/scss/helium/layouts/_error.scss */
   .g-error #g-header .g-content h2.g-title {
     font-size: 3rem;
@@ -2373,7 +2373,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 .g-offline #g-header .g-content p {
   font-size: 1.5rem;
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   /* line 16, wp-content/themes/g5_helium/scss/helium/layouts/_offline.scss */
   .g-offline #g-header .g-content h2.g-title {
     font-size: 3rem;
@@ -2467,7 +2467,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 0.1875rem 0.4rem;
   text-decoration: none;
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   .g-social a {
     padding: 0.1875rem 0.25rem;
   }
@@ -2601,12 +2601,12 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 6.5rem 0;
   margin: 0 auto;
 }
-@media only all and (min-width: 60rem) and (max-width: 74.938rem) {
+@media only all and (min-width: 50rem) and (max-width: 74.938rem) {
   .g-contentcubes .cube-items-wrapper .cube-content-wrapper {
     padding: 4.6rem 0;
   }
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   .g-contentcubes .cube-items-wrapper .cube-content-wrapper {
     max-width: 18.5rem;
     padding: 2.6rem 0;
@@ -3137,12 +3137,12 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   width: 100%;
   text-align: center;
 }
-@media only all and (min-width: 60rem) and (max-width: 74.938rem) {
+@media only all and (min-width: 50rem) and (max-width: 74.938rem) {
   .owl-dots {
     bottom: 5%;
   }
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   .owl-dots {
     bottom: 1rem;
   }
@@ -3252,12 +3252,12 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     width: 75rem;
   }
 }
-@media only all and (min-width: 60rem) and (max-width: 74.938rem) {
+@media only all and (min-width: 50rem) and (max-width: 74.938rem) {
   .g-owlcarousel-item-content-container {
-    width: 60rem;
+    width: 50rem;
   }
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   .g-owlcarousel-item-content-container {
     width: 40rem;
   }
@@ -3301,7 +3301,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   -ms-flex-pack: center;
   height: 100%;
 }
-@media only all and (min-width: 60rem) and (max-width: 74.938rem) {
+@media only all and (min-width: 50rem) and (max-width: 74.938rem) {
   .g-owlcarousel-item-content-wrapper {
     padding-top: 2.5rem;
   }
@@ -3312,7 +3312,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 0.938rem;
   text-align: center;
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   .g-owlcarousel-item-content {
     padding-top: 2.5rem;
   }
@@ -3325,13 +3325,13 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   font-weight: 500;
   margin: 1.25rem 1.25rem 0.625rem;
 }
-@media only all and (min-width: 60rem) and (max-width: 74.938rem) {
+@media only all and (min-width: 50rem) and (max-width: 74.938rem) {
   .g-owlcarousel-item-title {
     font-size: 3rem;
     line-height: 3.875rem;
   }
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   .g-owlcarousel-item-title {
     font-size: 2rem;
     line-height: 2.875rem;
@@ -3361,13 +3361,13 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   margin-top: 0;
   margin-bottom: 0.625rem;
 }
-@media only all and (min-width: 60rem) and (max-width: 74.938rem) {
+@media only all and (min-width: 50rem) and (max-width: 74.938rem) {
   .g-owlcarousel-item-desc {
     font-size: 1rem;
     line-height: 1.875rem;
   }
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   .g-owlcarousel-item-desc {
     font-size: 1rem;
     line-height: 1.875rem;
@@ -3380,7 +3380,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   }
 }
 /* line 527, wp-content/themes/g5_helium/scss/helium/particles/_owlcarousel.scss */
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   .g-owlcarousel-item-button {
     padding: 1rem 2.625rem;
     font-size: 0.6rem;
@@ -3438,12 +3438,12 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 .g-container {
   width: 75rem;
 }
-@media only all and (min-width: 60rem) and (max-width: 74.938rem) {
+@media only all and (min-width: 50rem) and (max-width: 74.938rem) {
   .g-container {
-    width: 60rem;
+    width: 50rem;
   }
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   .g-container {
     width: 48rem;
   }
@@ -3529,7 +3529,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     display: block !important;
   }
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   /* line 23, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/theme/breakpoints/_utilities.scss */
   .visible-tablet {
     display: block !important;
@@ -3539,7 +3539,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     display: block !important;
   }
 }
-@media only all and (min-width: 60rem) and (max-width: 74.938rem) {
+@media only all and (min-width: 50rem) and (max-width: 74.938rem) {
   /* line 32, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/theme/breakpoints/_utilities.scss */
   .visible-desktop {
     display: block !important;
@@ -3573,13 +3573,13 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
     display: none !important;
   }
 }
-@media only all and (min-width: 48rem) and (max-width: 59.938rem) {
+@media only all and (min-width: 48rem) and (max-width: 49.938rem) {
   /* line 63, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/theme/breakpoints/_utilities.scss */
   .hidden-tablet {
     display: none !important;
   }
 }
-@media only all and (min-width: 60rem) and (max-width: 74.938rem) {
+@media only all and (min-width: 50rem) and (max-width: 74.938rem) {
   /* line 69, wp-content/plugins/gantry5/engines/nucleus/scss/nucleus/theme/breakpoints/_utilities.scss */
   .hidden-desktop {
     display: none !important;

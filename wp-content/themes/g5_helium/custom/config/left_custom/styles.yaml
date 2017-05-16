@@ -1,1 +1,6 @@
 preset: preset1
+navigation:
+  background: '#312f38'
+header:
+  background: '#312f38'
+  background-image: ''

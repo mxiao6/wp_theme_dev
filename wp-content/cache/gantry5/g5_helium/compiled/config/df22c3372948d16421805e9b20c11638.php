@@ -1,25 +1,25 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1494885292,
-    'checksum' => 'ef87fe0c29b635d278670d14f042a7e1',
+    'timestamp' => 1494948948,
+    'checksum' => 'b8500a590246fc1498bb95b0467014aa',
     'files' => [
         'wp-content/themes/g5_helium/custom/config/left_custom' => [
             'assignments' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/left_custom/assignments.yaml',
-                'modified' => 1494873337
+                'modified' => 1494945110
             ],
             'index' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/left_custom/index.yaml',
-                'modified' => 1494885275
+                'modified' => 1494948500
             ],
             'layout' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/left_custom/layout.yaml',
-                'modified' => 1494885275
+                'modified' => 1494948500
             ],
             'styles' => [
                 'file' => 'wp-content/themes/g5_helium/custom/config/left_custom/styles.yaml',
-                'modified' => 1494866904
+                'modified' => 1494948742
             ]
         ]
     ],
@@ -45,7 +45,7 @@ return [
         ],
         'index' => [
             'name' => 'left_custom',
-            'timestamp' => 1494885275,
+            'timestamp' => 1494948500,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -80,8 +80,10 @@ return [
                 'social' => [
                     'social-4917' => 'Social'
                 ],
+                'widget' => [
+                    'position-widget-1011' => 'Widget'
+                ],
                 'custom' => [
-                    'custom-5323' => 'Header',
                     'custom-2543' => 'Left Sidebar',
                     'custom-6150' => 'Flexible Layouts'
                 ],
@@ -116,8 +118,6 @@ return [
                     'mobile-menu-9585' => 'mobile-menu-5697'
                 ],
                 'left_sidebar' => [
-                    'header' => 'header',
-                    'custom-5323' => 'custom-6833',
                     'intro' => 'intro',
                     'features' => 'features',
                     'utility' => 'utility',
@@ -141,8 +141,10 @@ return [
                 'navigation' => [
                     
                 ],
-                'header' => [
-                    
+                '/header/' => [
+                    0 => [
+                        0 => 'position-widget-1011'
+                    ]
                 ],
                 'intro' => [
                     
@@ -197,13 +199,9 @@ return [
                     ]
                 ],
                 'header' => [
-                    'inherit' => [
-                        'outline' => 'left_sidebar',
-                        'include' => [
-                            0 => 'attributes',
-                            1 => 'block',
-                            2 => 'children'
-                        ]
+                    'attributes' => [
+                        'boxed' => '',
+                        'class' => ''
                     ]
                 ],
                 'intro' => [
@@ -316,6 +314,12 @@ return [
                 ]
             ],
             'content' => [
+                'position-widget-1011' => [
+                    'attributes' => [
+                        'widget' => '{"type":"widget","widget":"metaslider_widget","title":"Meta Slider","options":{"widget":{"slider_id":"153","title":""}}}',
+                        'key' => 'widget'
+                    ]
+                ],
                 'contentarray-8482' => [
                     'title' => 'WordPress Posts',
                     'attributes' => [
@@ -356,16 +360,20 @@ return [
                                     'limit' => '100'
                                 ]
                             ]
-                        ],
-                        'css' => [
-                            'class' => 'cus_div'
                         ]
                     ]
                 ]
             ]
         ],
         'styles' => [
-            'preset' => 'preset1'
+            'preset' => 'preset1',
+            'navigation' => [
+                'background' => '#312f38'
+            ],
+            'header' => [
+                'background' => '#312f38',
+                'background-image' => ''
+            ]
         ]
     ]
 ];

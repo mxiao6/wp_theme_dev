@@ -5,7 +5,9 @@ preset:
   timestamp: 1468340932
 layout:
   navigation: {  }
-  header: {  }
+  /header/:
+    -
+      - position-widget-1011
   intro: {  }
   features: {  }
   utility: {  }
@@ -31,12 +33,9 @@ structure:
         - attributes
         - children
   header:
-    inherit:
-      outline: left_sidebar
-      include:
-        - attributes
-        - block
-        - children
+    attributes:
+      boxed: ''
+      class: ''
   intro:
     type: section
     inherit:
@@ -115,6 +114,10 @@ structure:
         - children
         - attributes
 content:
+  position-widget-1011:
+    attributes:
+      widget: '{"type":"widget","widget":"metaslider_widget","title":"Meta Slider","options":{"widget":{"slider_id":"153","title":""}}}'
+      key: widget
   contentarray-8482:
     title: 'WordPress Posts'
     attributes:

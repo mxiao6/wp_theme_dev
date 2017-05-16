@@ -1,7 +1,7 @@
 <?php
 return [
     'file' => 'gantry-theme://css-compiled/custom_left_custom.css',
-    'timestamp' => 1494945289,
+    'timestamp' => 1494949141,
     'md5' => '5fd06bf3e4fe9c513471d928f7bb5b08',
     'variables' => [
         'above-background' => '#f4f5f7',
@@ -11,7 +11,7 @@ return [
         'base-background' => '#ffffff',
         'base-text-color' => '#424753',
         'breakpoints-large-desktop-container' => '75rem',
-        'breakpoints-desktop-container' => '60rem',
+        'breakpoints-desktop-container' => '50rem',
         'breakpoints-tablet-container' => '48rem',
         'breakpoints-large-mobile-container' => '30rem',
         'breakpoints-mobile-menu-breakpoint' => '48rem',
@@ -24,7 +24,6 @@ return [
         'footer-background' => '#312f38',
         'footer-text-color' => '#ffffff',
         'header-background' => '#312f38',
-        'header-background-image' => '\'gantry-media://header/img01.jpg\'',
         'header-background-overlay' => '\'enabled\'',
         'header-text-color' => '#eceeef',
         'intro-background' => '#f4f5f7',
@@ -49,6 +48,6 @@ return [
         'preset' => '\'preset1\''
     ],
     'imports' => [
-        'gantry-theme://scss/custom.scss' => 1494885434
+        'gantry-theme://scss/custom.scss' => 1494945110
     ]
 ];
