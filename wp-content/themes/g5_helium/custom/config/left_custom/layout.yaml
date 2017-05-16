@@ -116,8 +116,7 @@ structure:
 content:
   position-widget-1011:
     attributes:
-      widget: '{"type":"widget","widget":"metaslider_widget","title":"Meta Slider","options":{"widget":{"slider_id":"153","title":""}}}'
-      key: widget
+      widget: '{"type":"widget","widget":"metaslider_widget","title":"Meta Slider","options":{"widget":{"slider_id":"152","title":""}}}'
   contentarray-8482:
     title: 'WordPress Posts'
     attributes:

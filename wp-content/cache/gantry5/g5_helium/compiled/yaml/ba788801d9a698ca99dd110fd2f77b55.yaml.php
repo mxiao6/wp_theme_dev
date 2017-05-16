@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Users/XMZ/EnterpriseWorks/gantry_wp/wp-content/themes/g5_helium/gantry/theme.yaml',
-    'modified' => 1493222622,
+    'modified' => 1494949861,
     'data' => [
         'details' => [
             'name' => 'Helium',

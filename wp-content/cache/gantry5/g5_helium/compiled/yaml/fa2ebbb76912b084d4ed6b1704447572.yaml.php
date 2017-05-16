@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Users/XMZ/EnterpriseWorks/gantry_wp/wp-content/themes/g5_helium/custom/config/rows_and_columns/index.yaml',
-    'modified' => 1494862212,
+    'modified' => 1494949896,
     'data' => [
         'name' => 'rows_and_columns',
-        'timestamp' => 1493222626,
+        'timestamp' => 1494949861,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',

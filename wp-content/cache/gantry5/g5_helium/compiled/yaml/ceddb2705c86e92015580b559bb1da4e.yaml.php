@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Users/XMZ/EnterpriseWorks/gantry_wp/wp-content/themes/g5_helium/custom/config/left_custom/index.yaml',
-    'modified' => 1494885390,
+    'modified' => 1494950266,
     'data' => [
         'name' => 'left_custom',
-        'timestamp' => 1494885390,
+        'timestamp' => 1494950266,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',
@@ -40,8 +40,10 @@ return [
             'social' => [
                 'social-4917' => 'Social'
             ],
+            'widget' => [
+                'position-widget-1011' => 'Widget'
+            ],
             'custom' => [
-                'custom-5323' => 'Header',
                 'custom-2543' => 'Left Sidebar',
                 'custom-6150' => 'Flexible Layouts'
             ],
@@ -76,8 +78,6 @@ return [
                 'mobile-menu-9585' => 'mobile-menu-5697'
             ],
             'left_sidebar' => [
-                'header' => 'header',
-                'custom-5323' => 'custom-6833',
                 'intro' => 'intro',
                 'features' => 'features',
                 'utility' => 'utility',
