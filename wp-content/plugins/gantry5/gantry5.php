@@ -3,7 +3,7 @@
  * Plugin Name: Gantry 5 Framework
  * Plugin URI: http://gantry.org/
  * Description: Framework for Gantry 5 based themes.
- * Version: 5.4.12
+ * Version: 5.4.13
  * Author: RocketTheme, LLC
  * Author URI: http://rockettheme.com/
  * License: GNU General Public License v2 or later
@@ -102,7 +102,7 @@ if (load_plugin_textdomain($domain, false, $languages_path) === false) {
 
 load_plugin_textdomain($domain, false, $languages_path);
 
-function modify_gantry5_locale($locale, $domain)
+function modify_gantry5_locale($locale, $domain = null)
 {
     // Revert the gantry5 domain locale to en_US
     if (isset($domain) && $domain == 'gantry5') {

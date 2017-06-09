@@ -28,6 +28,22 @@ class URLHelper {
 		return isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
     }
 
+    /**
+     * 
+     * Check to see if the URL begins with the string in question
+     * Because it's a URL we don't care about protocol (HTTP vs HTTPS)
+     * Or case (so it's cAsE iNsEnSeTiVe)
+     * @return boolean
+     */
+    public static function starts_with( $haystack, $starts_with ) {
+    	$haystack = str_replace('https', 'http', strtolower($haystack));
+    	$starts_with = str_replace('https', 'http', strtolower($starts_with));
+    	if ( 0 === strpos($haystack, $starts_with) ) {
+            return true;
+        }
+        return false;
+    }
+
 
 	/**
 	 *
@@ -193,12 +209,15 @@ class URLHelper {
 	public static function prepend_to_url( $url, $path ) {
 		if ( strstr(strtolower($url), 'http') ) {
 			$url_parts = parse_url($url);
-			$url = $url_parts['scheme'].'://'.$url_parts['host'].$path.$url_parts['path'];
+			$url = $url_parts['scheme'].'://'.$url_parts['host'].$path;
+			if ( isset($url_parts['path']) ) {
+				$url .= $url_parts['path'];
+			}
 			if ( isset($url_parts['query']) ) {
-				$url .= $url_parts['query'];
+				$url .= '?'.$url_parts['query'];
 			}
 			if ( isset($url_parts['fragment']) ) {
-				$url .= $url_parts['fragment'];
+				$url .= '#'.$url_parts['fragment'];
 			}
 		} else {
 			$url = $url.$path;
