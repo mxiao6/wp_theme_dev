@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Whoops\\' => array($vendorDir . '/filp/whoops/src/Whoops'),
+    'Twig\\' => array($vendorDir . '/twig/twig/src'),
     'Timber\\' => array($vendorDir . '/timber/timber/lib'),
     'Symfony\\Component\\Yaml\\' => array($vendorDir . '/symfony/yaml'),
     'Symfony\\Component\\EventDispatcher\\' => array($vendorDir . '/symfony/event-dispatcher'),
